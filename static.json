@@ -13,7 +13,7 @@
     },
     "/fetch/*": {
       "Access-Control-Allow-Origin": "*",
-      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Type": "text/html; charset=UTF-8",
       "X-Reply": "bdagmed"
     },    
     "/login/*": {
