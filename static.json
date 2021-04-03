@@ -6,11 +6,16 @@
       "Content-Type": "text/html; charset=UTF-8",
       "X-Reply": "openedu"
     },
-    "/sample2/*": {
+    "/promise/*": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8",
       "X-Reply": "openedu"
     },
+    "/fetch/*": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8",
+      "X-Reply": "openedu"
+    },    
     "/login/*": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8",
